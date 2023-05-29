@@ -5,10 +5,6 @@
       "outputs": [".next/**", "!.next/cache/**", "public/**"],
       "env": []
     },
-    "lint": {
-      "outputs": [],
-      "inputs": [".eslintrc.*", "src/**"]
-    },
     "type-check": {
       "outputs": ["*.tsbuildinfo"]
     }
